@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UASProject</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="text_title">Title</string>
+    <string name="text_description">Description</string>
+    <string name="sign_up_title">"Sign Up"</string>
+    <string name="username">Username</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="sign_in_underline">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">Welcome\nBack</string>
+    <string name="sign_in">Sign In</string>
+    <string name="text_message_username">Please write username</string>
+    <string name="text_message_email">Please write email</string>
+    <string name="text_message_password">Please write password</string>
+    <string name="text_error_message">Error Message</string>
+</resources>
